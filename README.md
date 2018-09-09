@@ -7,3 +7,5 @@ Addning some text.
 Changed!
 
 This causes toruble!
+
+This is a change.
